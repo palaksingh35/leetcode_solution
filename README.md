@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0867-transpose-matrix) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0867-transpose-matrix) |
@@ -22,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0867-transpose-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
