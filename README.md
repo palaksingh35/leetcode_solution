@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
 | [0566-reshape-the-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0566-reshape-the-matrix) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
