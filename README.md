@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/palaksingh35/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palaksingh35/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/palaksingh35/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
