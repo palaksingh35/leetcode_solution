@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1572-matrix-diagonal-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -110,4 +113,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
