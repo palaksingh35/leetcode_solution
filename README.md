@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/palaksingh35/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palaksingh35/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
@@ -100,12 +101,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -158,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
