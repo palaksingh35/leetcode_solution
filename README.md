@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/palaksingh35/leetcode_solution/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/palaksingh35/leetcode_solution/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palaksingh35/leetcode_solution/tree/master/0078-subsets) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/palaksingh35/leetcode_solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/palaksingh35/leetcode_solution/tree/master/0078-subsets) |
 ## String
 |  |
