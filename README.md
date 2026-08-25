@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palaksingh35/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/palaksingh35/leetcode_solution/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/palaksingh35/leetcode_solution/tree/master/0077-combinations) |
@@ -194,10 +196,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/palaksingh35/leetcode_solution/tree/master/0079-word-search) |
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/palaksingh35/leetcode_solution/tree/master/0079-word-search) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
