@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/palaksingh35/leetcode_solution/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/palaksingh35/leetcode_solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palaksingh35/leetcode_solution/tree/master/0078-subsets) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/palaksingh35/leetcode_solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/palaksingh35/leetcode_solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/palaksingh35/leetcode_solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/palaksingh35/leetcode_solution/tree/master/0079-word-search) |
