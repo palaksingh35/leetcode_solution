@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/palaksingh35/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/palaksingh35/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Enumeration
 |  |
 | ------- |
