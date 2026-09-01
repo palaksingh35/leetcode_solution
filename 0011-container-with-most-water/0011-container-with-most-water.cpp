@@ -9,12 +9,13 @@ public:
        
         while(i<j){
                water = min(height[i], height[j]) * (j - i); 
+               ans= max(water,ans);
             if(height[i]< height[j]){
                 i++;
             }else{
                 j--;
             }
-            ans= max(water,ans);
+           
             }
         
 
