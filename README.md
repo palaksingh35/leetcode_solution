@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/palaksingh35/leetcode_solution/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
