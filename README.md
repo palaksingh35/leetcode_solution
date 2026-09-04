@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/palaksingh35/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/palaksingh35/leetcode_solution/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/palaksingh35/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
