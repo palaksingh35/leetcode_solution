@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/palaksingh35/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/palaksingh35/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/palaksingh35/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/palaksingh35/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/palaksingh35/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/palaksingh35/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Heap (Priority Queue)
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/palaksingh35/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/palaksingh35/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
