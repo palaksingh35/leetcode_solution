@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/palaksingh35/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
 | [0566-reshape-the-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0566-reshape-the-matrix) |
+| [0724-find-pivot-index](https://github.com/palaksingh35/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0867-transpose-matrix) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/palaksingh35/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
