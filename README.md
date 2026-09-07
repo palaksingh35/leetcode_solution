@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/palaksingh35/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/palaksingh35/leetcode_solution/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palaksingh35/leetcode_solution/tree/master/0078-subsets) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/palaksingh35/leetcode_solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palaksingh35/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/palaksingh35/leetcode_solution/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/palaksingh35/leetcode_solution/tree/master/0055-jump-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/palaksingh35/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
