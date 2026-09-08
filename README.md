@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/palaksingh35/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/palaksingh35/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/palaksingh35/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
