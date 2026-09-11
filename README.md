@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/palaksingh35/leetcode_solution/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/palaksingh35/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/palaksingh35/leetcode_solution/tree/master/0050-powx-n) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/palaksingh35/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
