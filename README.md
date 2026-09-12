@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/palaksingh35/leetcode_solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/palaksingh35/leetcode_solution/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/palaksingh35/leetcode_solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/palaksingh35/leetcode_solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/palaksingh35/leetcode_solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/palaksingh35/leetcode_solution/tree/master/0078-subsets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/palaksingh35/leetcode_solution/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/palaksingh35/leetcode_solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
