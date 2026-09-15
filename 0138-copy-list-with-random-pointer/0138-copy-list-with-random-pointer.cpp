@@ -15,44 +15,55 @@ public:
 */
 
 class Solution {
-    void insertAtTail(Node* &head, Node* &tail, int val){
-       Node* newNode= new Node(val);
-       if(head==NULL){
-        head=newNode;
-        tail=newNode;
-        return;
-       }else{
-        tail->next=newNode;
-        tail=newNode;
-       }
-    }
 public:
     Node* copyRandomList(Node* head) {
-        // step 1 - making a clone linked list first without random ptr
-        Node* clonehead=NULL;
-        Node* clonetail=NULL;
-        Node* temp= head;
-        while(temp!= NULL){
-            insertAtTail(clonehead,clonetail,temp->val);
-            temp=temp->next;
+
+        if (head == NULL) {
+            return NULL;
         }
-        // step-2: save the mapping lsit of original list 
-        unordered_map<Node* , Node*> oldToNewNode;// making map of the original node
-        Node* originalNode=head;
-        Node* cloneNode= clonehead;
-        while(originalNode!= NULL && cloneNode!=NULL ){
-            oldToNewNode[originalNode]=cloneNode;
-            originalNode= originalNode->next;
-            cloneNode=cloneNode->next;
+
+        // Step 1: Create clone nodes and insert them
+        // between original nodes
+        Node* temp = head;
+
+        while (temp != NULL) {
+            Node* clone = new Node(temp->val);
+
+            clone->next = temp->next;
+            temp->next = clone;
+
+            temp = clone->next;
         }
-        // setting random of original to cloneNode
-        originalNode=head;
-        cloneNode= clonehead;
-        while(originalNode!= NULL){
-            cloneNode ->random=oldToNewNode[originalNode-> random];
-             originalNode= originalNode->next;
-            cloneNode=cloneNode->next;
+
+        
+        temp = head;
+
+        while (temp != NULL) {
+
+            if (temp->random != NULL) {
+                temp->next->random = temp->random->next;
+            }
+
+            temp = temp->next->next;
         }
-       return clonehead; 
+
+        //  Separate 
+        Node* cloneHead = head->next;
+        temp = head;
+
+        while (temp != NULL) {
+
+            Node* clone = temp->next;
+
+            temp->next = clone->next;
+
+            if (clone->next != NULL) {
+                clone->next = clone->next->next;
+            }
+
+            temp = temp->next;
+        }
+
+        return cloneHead;
     }
 };
