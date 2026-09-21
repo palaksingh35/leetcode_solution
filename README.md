@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palaksingh35/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palaksingh35/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/palaksingh35/leetcode_solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/palaksingh35/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1991-find-the-middle-index-in-array) |
