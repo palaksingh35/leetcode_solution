@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/palaksingh35/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/palaksingh35/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/palaksingh35/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/palaksingh35/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Enumeration
 |  |
 | ------- |
