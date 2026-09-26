@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
@@ -218,10 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/palaksingh35/leetcode_solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/palaksingh35/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0229-majority-element-ii) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/palaksingh35/leetcode_solution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
