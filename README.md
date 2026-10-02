@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/palaksingh35/leetcode_solution/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 | [0566-reshape-the-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/palaksingh35/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [0766-toeplitz-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/0766-toeplitz-matrix) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/palaksingh35/leetcode_solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/palaksingh35/leetcode_solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/palaksingh35/leetcode_solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
