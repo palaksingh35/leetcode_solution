@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/palaksingh35/leetcode_solution/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/palaksingh35/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/palaksingh35/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [2418-sort-the-people](https://github.com/palaksingh35/leetcode_solution/tree/master/2418-sort-the-people) |
 ## Depth-First Search
 |  |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/palaksingh35/leetcode_solution/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/palaksingh35/leetcode_solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/palaksingh35/leetcode_solution/tree/master/0055-jump-game) |
+| [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/palaksingh35/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/palaksingh35/leetcode_solution/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
