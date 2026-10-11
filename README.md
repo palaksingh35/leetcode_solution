@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/palaksingh35/leetcode_solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/palaksingh35/leetcode_solution/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/palaksingh35/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/palaksingh35/leetcode_solution/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/palaksingh35/leetcode_solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/palaksingh35/leetcode_solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/palaksingh35/leetcode_solution/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/palaksingh35/leetcode_solution/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/palaksingh35/leetcode_solution/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/palaksingh35/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/palaksingh35/leetcode_solution/tree/master/0371-sum-of-two-integers) |
