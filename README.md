@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/palaksingh35/leetcode_solution/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palaksingh35/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/palaksingh35/leetcode_solution/tree/master/0139-word-break) |
+| [0338-counting-bits](https://github.com/palaksingh35/leetcode_solution/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/palaksingh35/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/palaksingh35/leetcode_solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/palaksingh35/leetcode_solution/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/palaksingh35/leetcode_solution/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
