@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/palaksingh35/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/palaksingh35/leetcode_solution/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/palaksingh35/leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/palaksingh35/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/palaksingh35/leetcode_solution/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/palaksingh35/leetcode_solution/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/palaksingh35/leetcode_solution/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/palaksingh35/leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/palaksingh35/leetcode_solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Pigeonhole Principle
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/palaksingh35/leetcode_solution/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/palaksingh35/leetcode_solution/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/palaksingh35/leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
 | [2418-sort-the-people](https://github.com/palaksingh35/leetcode_solution/tree/master/2418-sort-the-people) |
 ## Depth-First Search
