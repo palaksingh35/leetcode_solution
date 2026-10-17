@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/palaksingh35/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2418-sort-the-people](https://github.com/palaksingh35/leetcode_solution/tree/master/2418-sort-the-people) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/palaksingh35/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/palaksingh35/leetcode_solution/tree/master/0389-find-the-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/palaksingh35/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/palaksingh35/leetcode_solution/tree/master/2418-sort-the-people) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/palaksingh35/leetcode_solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/palaksingh35/leetcode_solution/tree/master/2418-sort-the-people) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
