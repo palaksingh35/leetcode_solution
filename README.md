@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/palaksingh35/leetcode_solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/palaksingh35/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/palaksingh35/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/palaksingh35/leetcode_solution/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/palaksingh35/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/palaksingh35/leetcode_solution/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/palaksingh35/leetcode_solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0268-missing-number) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/palaksingh35/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/palaksingh35/leetcode_solution/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
