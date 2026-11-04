@@ -9,9 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
-  
-       
+class Solution { 
 public:
     bool hasPathSum(TreeNode* root, int targetSum) {
          if (!root) {
@@ -22,10 +20,10 @@ public:
             return targetSum == root->val;
         }
         
-        bool leftsum = hasPathSum(root->left, targetSum - root->val);
-        bool rightsum = hasPathSum(root->right, targetSum - root->val);
+          return  hasPathSum(root->left, targetSum - root->val)||
+          hasPathSum(root->right, targetSum - root->val);
         
-        return leftsum || rightsum;
+      
      
     }
 };
