@@ -500,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/palaksingh35/leetcode_solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/palaksingh35/leetcode_solution/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/palaksingh35/leetcode_solution/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/palaksingh35/leetcode_solution/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Lifting
 |  |
 | ------- |
