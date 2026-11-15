@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/palaksingh35/leetcode_solution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/palaksingh35/leetcode_solution/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1929-concatenation-of-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1929-concatenation-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/palaksingh35/leetcode_solution/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/palaksingh35/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/palaksingh35/leetcode_solution/tree/master/2396-strictly-palindromic-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/palaksingh35/leetcode_solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Enumeration
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/palaksingh35/leetcode_solution/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/palaksingh35/leetcode_solution/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/palaksingh35/leetcode_solution/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/palaksingh35/leetcode_solution/tree/master/1991-find-the-middle-index-in-array) |
 ## Linked List
 |  |
