@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/palaksingh35/leetcode_solution/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/palaksingh35/leetcode_solution/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/palaksingh35/leetcode_solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/palaksingh35/leetcode_solution/tree/master/2418-sort-the-people) |
 ## Depth-First Search
 |  |
