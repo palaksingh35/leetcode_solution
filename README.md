@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/palaksingh35/leetcode_solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0118-pascals-triangle](https://github.com/palaksingh35/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palaksingh35/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/palaksingh35/leetcode_solution/tree/master/0139-word-break) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/palaksingh35/leetcode_solution/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/palaksingh35/leetcode_solution/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/palaksingh35/leetcode_solution/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/palaksingh35/leetcode_solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/palaksingh35/leetcode_solution/tree/master/0139-word-break) |
 | [0337-house-robber-iii](https://github.com/palaksingh35/leetcode_solution/tree/master/0337-house-robber-iii) |
