@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/palaksingh35/leetcode_solution/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/palaksingh35/leetcode_solution/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/palaksingh35/leetcode_solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/palaksingh35/leetcode_solution/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/palaksingh35/leetcode_solution/tree/master/0678-valid-parenthesis-string) |
+| [1382-balance-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/palaksingh35/leetcode_solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Prefix Sum
 |  |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -580,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/palaksingh35/leetcode_solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/palaksingh35/leetcode_solution/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
